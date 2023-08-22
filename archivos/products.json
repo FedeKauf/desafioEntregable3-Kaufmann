@@ -1,0 +1,95 @@
+{
+     "lastId": 2,
+     "products": [
+          {
+               "id": 1,
+               "title": "p1",
+               "description": "algodon",
+               "price": 100,
+               "thumbnail": "sin imagen",
+               "stock": 1,
+               "code": 25
+             },
+             {
+               "id": 2,
+               "title": "p2",
+               "description": "lino",
+               "price": 150,
+               "thumbnail": "sin imagen",
+               "stock": 5,
+               "code": 30
+             },
+             {
+               "id": 3,
+               "title": "p3",
+               "description": "seda",
+               "price": 200,
+               "thumbnail": "sin imagen",
+               "stock": 3,
+               "code": 40
+             },
+             {
+               "id": 4,
+               "title": "p4",
+               "description": "lana",
+               "price": 75,
+               "thumbnail": "sin imagen",
+               "stock": 8,
+               "code": 15
+             },
+             {
+               "id": 5,
+               "title": "p5",
+               "description": "poliéster",
+               "price": 50,
+               "thumbnail": "sin imagen",
+               "stock": 10,
+               "code": 5
+             },
+             {
+               "id": 6,
+               "title": "p6",
+               "description": "cuero",
+               "price": 300,
+               "thumbnail": "sin imagen",
+               "stock": 2,
+               "code": 55
+             },
+             {
+               "id": 7,
+               "title": "p7",
+               "description": "nylon",
+               "price": 120,
+               "thumbnail": "sin imagen",
+               "stock": 4,
+               "code": 10
+             },
+             {
+               "id": 8,
+               "title": "p8",
+               "description": "satén",
+               "price": 180,
+               "thumbnail": "sin imagen",
+               "stock": 6,
+               "code": 70
+             },
+             {
+               "id": 9,
+               "title": "p9",
+               "description": "terciopelo",
+               "price": 250,
+               "thumbnail": "sin imagen",
+               "stock": 3,
+               "code": 20
+             },
+             {
+               "id": 10,
+               "title": "p10",
+               "description": "franela",
+               "price": 90,
+               "thumbnail": "sin imagen",
+               "stock": 7,
+               "code": 60
+             }
+           ]
+}
